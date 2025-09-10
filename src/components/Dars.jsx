@@ -1,6 +1,6 @@
-import React, { Component, use } from "react";
+import React, { Component } from "react";
 
-export default class Login extends Component {
+export default class Dars extends Component {
   constructor() {
     super();
     this.state = {
